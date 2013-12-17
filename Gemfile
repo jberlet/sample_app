@@ -11,6 +11,7 @@ gem 'pg', '0.12.2'
 gem 'rspec-rails', '2.10.0'
 gem 'guard-rspec', '0.5.5'
 gem 'annotate', '~> 2.4.1.beta'
+gem 'factory_girl_rails', '1.4.0'
 
 
 end
